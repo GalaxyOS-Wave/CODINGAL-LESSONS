@@ -10,4 +10,3 @@ b = 17
 date =input("hey enter your birthday:")
 
 print("\nok done on",date,"we will wish you happy brithday")
-
